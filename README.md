@@ -1,2 +1,3 @@
 # pipewire configs, osu skins and some other stuff
-nano  ~/.local/bin/osu-wine
+~/.local/bin/osu-wine
+/etc/pipewire/
